@@ -39,3 +39,6 @@ Authors
 + http://twitter.com/jina
 + http://github.com/jina
 + http://sushiandrobots.com
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/netconstructor/320andup/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
